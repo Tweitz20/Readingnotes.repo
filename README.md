@@ -9,6 +9,7 @@ Reading notes and markdown
 # **Dont Give Up**
 ###### ***Learning markdown seems pretty straight forward but if you get stuck on things google will be your best friend***
 ### *Calling a friend or asking for help is alot better then guessing and not putting you full effort forward.*
+### **Below ive created a table of contents portion ill be able to add different pages to my current site for any assignments and readings**
 
 ## *Table of contents*
 
