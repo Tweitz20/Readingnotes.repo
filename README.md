@@ -11,7 +11,8 @@ Reading notes and markdown
 ### *Calling a friend or asking for help is alot better then guessing and not putting you full effort forward.*
 ### **Below ive created a table of contents portion ill be able to add different pages to my current site for any assignments and readings**
 
-## *Table of contents*
+### *Table of contents*
 
 * [Reading03](reading03.md)
 * [Lab03](Lab03.md)
+* [reading04](reading04.md)
