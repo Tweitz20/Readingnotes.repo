@@ -9,3 +9,5 @@ Reading notes and markdown
 # **Dont Give Up**
 ###### ***Learning markdown seems pretty straight forward but if you get stuck on things google will be your best friend***
 ### *Calling a friend or asking for help is alot better then guessing and not putting you full effort forward.*
+
+* [Reading03](Reading03.md)
