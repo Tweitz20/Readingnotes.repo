@@ -1,0 +1,7 @@
+# Reading 06
+
+## Javascript is a lot more detailed and Roger our instructor was right. Some questions you might be asking are what is javascript? What does it look like? ,and what can it do?
+
+##### One of the hardest things to learn in programming is not the syntax you need to learn, but how to apply it to solve real world problems. Something else i read is you need to start thinking like a programmer — this generally involves looking at descriptions of what your program needs to do, working out what code features are needed to achieve those things, and how to make them work together
+
+##### Loops are a very important concept in programming, which allow you to keep running a piece of code over and over again, until a certain condition is met. javascript has differnet errors that could occur as wll and they are called syntac errors which are spelling errors in the code that actually can cause the program to not run at all or possible stop working part way through it.commonly you will be provided with some error messages with that if it happens. key part is to know what the error messages mean so you can properly fix them. Also there is logic errors, these errors are where the syntax is actaully corect but the code is not what you planned it to be, this means the program runs fine but gives wrong results. These are usually harder to fix then syntax errors, as there usually isnt an error message to send you to the source of error
