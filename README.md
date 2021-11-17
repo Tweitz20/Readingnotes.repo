@@ -16,5 +16,5 @@ Reading notes and markdown
 * [Reading03](reading03.md)
 * [Lab03](Lab03.md)
 * [reading04](reading04.md)
-
+* [reading05](reading05.md)
 * [reading06](reading06.md)
