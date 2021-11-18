@@ -18,3 +18,4 @@ Reading notes and markdown
 * [reading04](reading04.md)
 * [reading05](reading05.md)
 * [reading06](reading06.md)
+* [reading07](reading07.md)
